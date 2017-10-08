@@ -12,4 +12,4 @@ This project is part of Udacity Front-End Nanodegree. Here are the project requi
 
 3. Choose a color.
 
-4. Start clicking the squares and make your art..
+4. Start clicking the squares and make your art.
