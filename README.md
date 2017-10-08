@@ -1,16 +1,15 @@
 # Pixel Art Maker Project
-
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+This project is part of Udacity Front-End Nanodegree. Here are the project requirements -
+1. Dynamically set the size of the table as an N by M grid.
+2. Choose a color.
+3. Click a cell in the grid to fill that cell with the chosen color.
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+1. Open the index.html file in the browser.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+2. Set the height and the width of the table.
 
-## Contributing
+3. Choose a color.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+4. Start clicking the squares and make your art..
